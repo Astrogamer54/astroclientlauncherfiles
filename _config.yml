@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+title: Astro Feed
+description: The news feed for my launcher
+author: Astrogamer54

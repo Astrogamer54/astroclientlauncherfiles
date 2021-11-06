@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aslaunch.astrogamer54.com/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://aslaunch.astrogamer54.com/feed.xml",
+    "discord": {
+      "clientId": "905683421899161631",
+      "smallImageText": "astro",
+      "smallImageKey": "yes"
+    }
+  }
+}

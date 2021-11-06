@@ -1,0 +1,1139 @@
+{
+  "version": "1.0.0",
+  "rss": "https://aslaunch.astrogamer54.com/feed.xml",
+  "discord": {
+    "clientId": "905683421899161631",
+    "smallImageText": "astro",
+    "smallImageKey": "yes"
+  },
+  "servers": [
+    {
+      "id": "Test-1.12.2",
+      "name": "Astro Pixelmon Server",
+      "description": "Astro Pixelmon Server Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "905683421899161631",
+        "largeImageText": "jasnoor",
+        "largeImageKey": "pog"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 4464387,
+            "MD5": "02fcc447bb8938e5214292e4d36ec949",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2855/forge-1.12.2-14.23.5.2855-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.12.2-14.23.5.2855",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 10789,
+                "MD5": "5d092df68975deb3d56c87f977aaf5fa",
+                "url": "http://localhost:8080/repo/versions/1.12.2-forge-14.23.5.2855/1.12.2-forge-14.23.5.2855.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
+              "name": "Minecraft Forge (asm-debug-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 387903,
+                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "http://localhost:8080/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.5.1@jar",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 614590,
+                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
+                "url": "http://localhost:8080/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "http://localhost:8080/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "http://localhost:8080/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "http://localhost:8080/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "http://localhost:8080/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "java3d:vecmath:1.5.2@jar",
+              "name": "Minecraft Forge (vecmath)",
+              "type": "Library",
+              "artifact": {
+                "size": 318956,
+                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                "url": "http://localhost:8080/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+              }
+            },
+            {
+              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
+              "name": "Minecraft Forge (trove4j)",
+              "type": "Library",
+              "artifact": {
+                "size": 2523218,
+                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                "url": "http://localhost:8080/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 54961,
+                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78175,
+                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                "url": "http://localhost:8080/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "com.builtbroken.ai.improvements:AI-Improvements:1.12-0.0.1b3@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7266,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/AIImprovements-1.12-0.0.1b3.jar",
+            "MD5": "b7530d2707a004353219ac8beceec173"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:1.0.14@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33683,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/AppleSkin-mc1.12-1.0.14.jar",
+            "MD5": "b435860d5cfa23bc53d3b8e120be91d4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "appeng.core:appliedenergistics2:rv6-stable-7@jar",
+          "name": "Applied Energistics 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4062630,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
+            "MD5": "b8667d60a761d5b5ae3c8a15192f9e28"
+          }
+        },
+        {
+          "id": "vazkii.arl:autoreglib:1.6-49@jar",
+          "name": "AutoRegLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57279,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/AutoRegLib-1.6-49.jar",
+            "MD5": "16302251afc7a757f00899b270cc0fa2"
+          }
+        },
+        {
+          "id": "baubles:baubles:1.12-1.5.2@jar",
+          "name": "Baubles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108450,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
+            "MD5": "944dec4ef3fbfd4d498d94a7047af201"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4702147,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+            "MD5": "4c1d23b8a58b6aaa9a5204fae3f18393"
+          }
+        },
+        {
+          "id": "net.jay113355.boppatch:BOP-Patch:1.0@jar",
+          "name": "BOP Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5002,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/BOP-Patch-1.0.jar",
+            "MD5": "d57669b7624c011e350b2bb4c4a66949"
+          }
+        },
+        {
+          "id": "vazkii.botania:botania:r1.10-364.4@jar",
+          "name": "Botania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13817704,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Botania%20r1.10-364.4.jar",
+            "MD5": "7a19779fa19e37cb9fb49a0a1770332b"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:1.12.3@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 319866,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/carryon-1.12.2-1.12.6.20.jar",
+            "MD5": "67f26a8f192efefffb6f5d34e7021a13"
+          }
+        },
+        {
+          "id": "mod.chiselsandbits.core:chiselsandbits:14.33@jar",
+          "name": "Chisels & Bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737407,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
+            "MD5": "e056e23559965f2ebabf47aad0fe51a3"
+          }
+        },
+        {
+          "id": "com.blamejared:clumps:3.1.2@jar",
+          "name": "Clumps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13792,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Clumps-3.1.2.jar",
+            "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
+          }
+        },
+        {
+          "id": "us.getfluxed.controlsearch:controlling:3.0.10@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29043,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/Controlling-3.0.10.jar",
+            "MD5": "7696135b09e93265ff190e1ee97a8257"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.blamejared:crafttweaker:1.12-4.1.20.669@jar",
+          "name": "CraftTweaker2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1571433,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/CraftTweaker2-1.12-4.1.20.669.jar",
+            "MD5": "ded3e577f3c5b140a112dd6ce73cd7d2"
+          }
+        },
+        {
+          "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
+          "name": "Custom Main Menu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91121,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+            "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.1.0@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15929762,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "MD5": "1a0d50a34941865ff091a492e0612502"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:1.1.15@jar",
+          "name": "Enchantment Descriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17073,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
+            "MD5": "ff5d71e5f96ffb1ef1f996af48da2c6c"
+          }
+        },
+        {
+          "id": "gg.essential.loader.stage0:essential:Forge-1.12.2@jar",
+          "name": "Essential",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21889,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Essential-Forge-1.12.2.jar",
+            "MD5": "7b89c416ec3016f2beed630516b9e3a5"
+          }
+        },
+        {
+          "id": "de.keksuccino.fancymenu:fancymenu_2.3.5_mc_1.17.1:0.0.0@jar",
+          "name": "Fancymenu_2.3.5_MC_1.17.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584313,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/fancymenu_2.3.5_MC_1.17.1.jar",
+            "MD5": "8ff53a82f2c32a6c806ad1a99c645e66"
+          }
+        },
+        {
+          "id": "shadows.fastfurnace:fastfurnace:1.12.2-1.3.1@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10035,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/FastFurnace-1.12.2-1.3.1.jar",
+            "MD5": "b84cc8a587dbd35fef2dbc3e0b9435aa"
+          }
+        },
+        {
+          "id": "net.olafkeijsers:fastleafdecay:v14@jar",
+          "name": "FastLeafDecay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5200,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/FastLeafDecay-v14.jar",
+            "MD5": "18096ffb7f58d94f8e5a7bf2ff160f0f"
+          }
+        },
+        {
+          "id": "shadows.fastbench:fastbench:1.12.2-1.7.3@jar",
+          "name": "FastWorkbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26515,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/FastWorkbench-1.12.2-1.7.3.jar",
+            "MD5": "b55a31e4193204572acf05f78e0deedc"
+          }
+        },
+        {
+          "id": "sonar.fluxnetworks:fluxnetworks:4.1.1.34@jar",
+          "name": "Flux Networks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 475994,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/FluxNetworks-1.12.2-4.1.1.34.jar",
+            "MD5": "dc5f666ad856dd1da2b195f03a815bb3"
+          }
+        },
+        {
+          "id": "net.shadowfacts:forgelin:1.8.4@jar",
+          "name": "Shadowfacts' Forgelin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6278399,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Forgelin-1.8.4.jar",
+            "MD5": "2da79fce72265eab0541e565636d389d"
+          }
+        },
+        {
+          "id": "net.thedudemc:freelook:1.2.1@jar",
+          "name": "FreeLook",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9039,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionaloff/FreeLook-1.2.2.jar",
+            "MD5": "e452d54a6dd03c45444c68f93236dd59"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:6.3.1@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2435626,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/furniture-6.3.1-1.12.2.jar",
+            "MD5": "7e4f4d160032658e095eff8221977800"
+          }
+        },
+        {
+          "id": "de.waterdu:gameshark:1.12.2-6.0.6-universal@jar",
+          "name": "Gameshark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81327,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Gameshark-1.12.2-6.0.6-universal.jar",
+            "MD5": "df23b3ee3bca25680a39265b57e2aa62"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib3:3.0.0@jar",
+          "name": "GeckoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3688703,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/geckolib-forge-1.12.2-3.0.5.jar",
+            "MD5": "7537720d59b7f058d4717a63f409d128"
+          }
+        },
+        {
+          "id": "blusunrize.immersiveengineering:immersiveengineering:0.12-98@jar",
+          "name": "Immersive Engineering",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6360959,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/ImmersiveEngineering-0.12-98.jar",
+            "MD5": "affce9a7f7cb9ab257135da89314e07e"
+          }
+        },
+        {
+          "id": "com.buuz135.industrial:industrialforegoing:1.12.13@jar",
+          "name": "Industrial Foregoing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1603134,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/industrialforegoing-1.12.2-1.12.13-237.jar",
+            "MD5": "a9330399f14295d90e4ec3b5bb93f81f"
+          }
+        },
+        {
+          "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
+          "name": "Iron Chests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 956692,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
+            "MD5": "743179bc3a8f50751efbb019acc759a9"
+          }
+        },
+        {
+          "id": "com.latmod.mods:itemfilters:1.0.4.2@jar",
+          "name": "Item Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78935,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/ItemFilters-1.0.4.2.jar",
+            "MD5": "c89d595cdef3cc93f2acbc31333e418b"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:4.16.1.301@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 653211,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.301.jar",
+            "MD5": "1dee4be93d666e2228039c551e927b35"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.snowshock35:jeiintegration:1.6.0@jar",
+          "name": "JEI Integration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25196,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/jeiintegration_1.12.2-1.6.0.jar",
+            "MD5": "591f2eef8dc65ebc6850bce0acd88f41"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2-5.7.1@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6990968,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1.jar",
+            "MD5": "8160b970fc14cff30dff2785bb9f964c"
+          }
+        },
+        {
+          "id": "jeresources:jeresources:0.9.2@jar",
+          "name": "Just Enough Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 222270,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/JustEnoughResources-1.12.2-0.9.2.60.jar",
+            "MD5": "87a4666549a60d8fb423883dd4ee6232"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.12.2@jar",
+          "name": "Konkrete_1.3.0_MC_1.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200318,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/konkrete_1.3.0_MC_1.12-1.12.2.jar",
+            "MD5": "385944d05703b3d57b066f12cde20c82"
+          }
+        },
+        {
+          "id": "de.keksuccino:loadmyresources:1.0.1@jar",
+          "name": "Load My Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27710,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/loadmyresources_1.0.1_MC_1.12-1.12.2.jar",
+            "MD5": "82a35d317797d8bdb137cf9115be8abe"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "slimeknights.mantle:mantle:1.3.3.55@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 843486,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar",
+            "MD5": "1026f5f8d3c4997831decd9023ca65a6"
+          }
+        },
+        {
+          "id": "mekanism:mekanism:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7863657,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
+            "MD5": "e622b8365b9a1190b3b6cc042854e870"
+          }
+        },
+        {
+          "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 336364,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+          }
+        },
+        {
+          "id": "mekanism.tools:mekanismtools:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159785,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
+            "MD5": "0095f13a729ce5873319e36e29a5b5e1"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.10@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75170,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/MouseTweaks-2.10-mc1.12.2.jar",
+            "MD5": "e4dcbf47c3f99a780681e3a3a9fcf9e9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.chaosthedude:naturescompass:1.12.2-1.8.0@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193908,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/NaturesCompass-1.12.2-1.8.0.jar",
+            "MD5": "0cbdc050191cf1b6ef820babc286417b"
+          }
+        },
+        {
+          "id": "vazkii.neat:neat:1.4-17@jar",
+          "name": "Neat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18527,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/optionalon/Neat%201.4-17.jar",
+            "MD5": "c371deab2490ecd6a2689eed09302d23"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib Support Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          }
+        },
+        {
+          "id": "com.pixelextras:pixelextras:1.12.2-2.5.11-universal@jar",
+          "name": "Pixel Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165753,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/PixelExtras-1.12.2-2.5.15-universal.jar",
+            "MD5": "f620c03b06177bfd0a122ecb48c92a88"
+          }
+        },
+        {
+          "id": "com.pixelmonmod:pixelmon:8.3.1@jar",
+          "name": "Pixelmon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 384409238,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Pixelmon-1.12.2-8.3.1-universal.jar",
+            "MD5": "00bc3b60a50bad4407c759897f378d59"
+          }
+        },
+        {
+          "id": "shadows.placebo:placebo:1.17.1-5.0.0@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 142196,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Placebo-1.17.1-5.0.0.jar",
+            "MD5": "030026867e8e7f7498a388190d386496"
+          }
+        },
+        {
+          "id": "vazkii.quark.base:quark:r1.6-179@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3877577,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/Quark-r1.6-179.jar",
+            "MD5": "dfcfa70d244f0435a5ff2b28037a324b"
+          }
+        },
+        {
+          "id": "com.therandomlabs.randompatches.core:randompatches:1.12.2-1.22.1.10@jar",
+          "name": "RandomPatches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 293231,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/randompatches-1.12.2-1.22.1.10.jar",
+            "MD5": "dfbb30ff396e6426ba9a284b04c7bcf3"
+          }
+        },
+        {
+          "id": "com.exidex:stg:1.12.2-1.2.3@jar",
+          "name": "SwingThroughGrass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24024,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/stg-1.12.2-1.2.3.jar",
+            "MD5": "b836648006f1451c65d33f7132eec770"
+          }
+        },
+        {
+          "id": "slimeknights.tconstruct:tconstruct:1.12.2-2.13.0.183@jar",
+          "name": "Tinkers' Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4023372,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.183.jar",
+            "MD5": "710d64342d41042b7d6ced891448e727"
+          }
+        },
+        {
+          "id": "net.ndrei:teslacorelib:1.12.2-1.0.18@jar",
+          "name": "Tesla Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1139012,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/tesla-core-lib-1.12.2-1.0.18.jar",
+            "MD5": "376a23e3487870028a26d0e9522d8da7"
+          }
+        },
+        {
+          "id": "net.xalcon:torchmaster:1.8.4.84@jar",
+          "name": "TorchMaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 168301,
+            "url": "http://localhost:8080/servers/Test-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.4.84.jar",
+            "MD5": "e747c087c45e362f9cf497d008a367eb"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1448,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/config.txt",
+            "MD5": "9c7e482868522ed4a894c319e24440c8",
+            "path": "config/fancymenu/config.txt"
+          }
+        },
+        {
+          "id": "pixelmon_back.txt",
+          "name": "pixelmon_back.txt",
+          "type": "File",
+          "artifact": {
+            "size": 605,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_back.txt",
+            "MD5": "02aed98cf3523769ab9c78b51d22f388",
+            "path": "config/fancymenu/customization/pixelmon_back.txt"
+          }
+        },
+        {
+          "id": "pixelmon_front.txt",
+          "name": "pixelmon_front.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5896,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_front.txt",
+            "MD5": "40356df8b92bb3c6f567effd78d1656b",
+            "path": "config/fancymenu/customization/pixelmon_front.txt"
+          }
+        },
+        {
+          "id": "pixelmon_scale_large.txt",
+          "name": "pixelmon_scale_large.txt",
+          "type": "File",
+          "artifact": {
+            "size": 194,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_scale_large.txt",
+            "MD5": "dc72e46082b6a032fff52b9c0a011b4c",
+            "path": "config/fancymenu/customization/pixelmon_scale_large.txt"
+          }
+        },
+        {
+          "id": "pixelmon_scale_small.txt",
+          "name": "pixelmon_scale_small.txt",
+          "type": "File",
+          "artifact": {
+            "size": 193,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_scale_small.txt",
+            "MD5": "4de30b6ba74348df575f449dd20a0736",
+            "path": "config/fancymenu/customization/pixelmon_scale_small.txt"
+          }
+        },
+        {
+          "id": "excludedmenus.txt",
+          "name": "excludedmenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 102,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/excludedmenus.txt",
+            "MD5": "a3351750ef79f76f39682a79949e0686",
+            "path": "config/fancymenu/excludedmenus.txt"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 20011,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/locals/de_de.local",
+            "MD5": "f7672ca255f81aa57e8641fd42b0f694",
+            "path": "config/fancymenu/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 19034,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/locals/en_us.local",
+            "MD5": "2bcaa39db6f9c6bc2aae2b46809e1965",
+            "path": "config/fancymenu/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 14275,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/locals/pl_pl.local",
+            "MD5": "956b052e15281169f90e9e5bd9b9c3af",
+            "path": "config/fancymenu/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 14690,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/locals/pt_br.local",
+            "MD5": "2e4feed8d5692ef3f657f69453528535",
+            "path": "config/fancymenu/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "icon16x16.png",
+          "name": "icon16x16.png",
+          "type": "File",
+          "artifact": {
+            "size": 696,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon16x16.png",
+            "MD5": "10234a912cae1334cfceb40f7eb77b41",
+            "path": "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+          }
+        },
+        {
+          "id": "icon32x32.png",
+          "name": "icon32x32.png",
+          "type": "File",
+          "artifact": {
+            "size": 1660,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon32x32.png",
+            "MD5": "39d09de9200a5b5d1ba90cb7ad17e699",
+            "path": "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+          }
+        },
+        {
+          "id": "clear_back.png",
+          "name": "clear_back.png",
+          "type": "File",
+          "artifact": {
+            "size": 1577,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/clear_back.png",
+            "MD5": "9f6042adfa4ed5f2e7f0850b033fa73f",
+            "path": "config/fancymenu/pixelmon_resources/clear_back.png"
+          }
+        },
+        {
+          "id": "discord_hover.png",
+          "name": "discord_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 5837,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/discord_hover.png",
+            "MD5": "ffaa266e7f4a49e547981168dae64bec",
+            "path": "config/fancymenu/pixelmon_resources/discord_hover.png"
+          }
+        },
+        {
+          "id": "discord_normal.png",
+          "name": "discord_normal.png",
+          "type": "File",
+          "artifact": {
+            "size": 5448,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/discord_normal.png",
+            "MD5": "46a8651202143aee08b04782cbd3ecbb",
+            "path": "config/fancymenu/pixelmon_resources/discord_normal.png"
+          }
+        },
+        {
+          "id": "icon-bar.png",
+          "name": "icon-bar.png",
+          "type": "File",
+          "artifact": {
+            "size": 1750,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/icon-bar.png",
+            "MD5": "d5507fada52177b1a50dbbf5ff7fde3a",
+            "path": "config/fancymenu/pixelmon_resources/icon-bar.png"
+          }
+        },
+        {
+          "id": "logs_hover.png",
+          "name": "logs_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 2770,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/logs_hover.png",
+            "MD5": "dfa9c5539e703819c689fcdbcbf620f4",
+            "path": "config/fancymenu/pixelmon_resources/logs_hover.png"
+          }
+        },
+        {
+          "id": "logs_normal.png",
+          "name": "logs_normal.png",
+          "type": "File",
+          "artifact": {
+            "size": 2734,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/logs_normal.png",
+            "MD5": "c15ddc3815eef12819693ae820912633",
+            "path": "config/fancymenu/pixelmon_resources/logs_normal.png"
+          }
+        },
+        {
+          "id": "node_hover.png",
+          "name": "node_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 6982,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/node_hover.png",
+            "MD5": "c9235220096aa8a1fb4c7d598480ecbc",
+            "path": "config/fancymenu/pixelmon_resources/node_hover.png"
+          }
+        },
+        {
+          "id": "node_normal.png",
+          "name": "node_normal.png",
+          "type": "File",
+          "artifact": {
+            "size": 9550,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/node_normal.png",
+            "MD5": "f2f0c143090b7323b3c75ce2b283126e",
+            "path": "config/fancymenu/pixelmon_resources/node_normal.png"
+          }
+        },
+        {
+          "id": "reforged-bg.png",
+          "name": "reforged-bg.png",
+          "type": "File",
+          "artifact": {
+            "size": 7312184,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/reforged-bg.png",
+            "MD5": "6753e2f15858aef932dcb33ef09d1f7b",
+            "path": "config/fancymenu/pixelmon_resources/reforged-bg.png"
+          }
+        },
+        {
+          "id": "reforged-logo.png",
+          "name": "reforged-logo.png",
+          "type": "File",
+          "artifact": {
+            "size": 396752,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/reforged-logo.png",
+            "MD5": "7c1baedafa69b7f878fb3f2a6c327296",
+            "path": "config/fancymenu/pixelmon_resources/reforged-logo.png"
+          }
+        },
+        {
+          "id": "sidebar-slice_full.png",
+          "name": "sidebar-slice_full.png",
+          "type": "File",
+          "artifact": {
+            "size": 13592,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/sidebar-slice_full.png",
+            "MD5": "c3f717bbc0ddc22d7c5024a399e11232",
+            "path": "config/fancymenu/pixelmon_resources/sidebar-slice_full.png"
+          }
+        },
+        {
+          "id": "topbar-slice.png",
+          "name": "topbar-slice.png",
+          "type": "File",
+          "artifact": {
+            "size": 32433,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/topbar-slice.png",
+            "MD5": "e5cc367ae7d7c5bcb79bae95c3485ed1",
+            "path": "config/fancymenu/pixelmon_resources/topbar-slice.png"
+          }
+        },
+        {
+          "id": "website_hover.png",
+          "name": "website_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 2978,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/website_hover.png",
+            "MD5": "9e056bf3919cccf7a5ba33bd30afc074",
+            "path": "config/fancymenu/pixelmon_resources/website_hover.png"
+          }
+        },
+        {
+          "id": "website_normal.png",
+          "name": "website_normal.png",
+          "type": "File",
+          "artifact": {
+            "size": 2955,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/website_normal.png",
+            "MD5": "669fe56afc403b75db3047042e39ead4",
+            "path": "config/fancymenu/pixelmon_resources/website_normal.png"
+          }
+        },
+        {
+          "id": "wiki_hover.png",
+          "name": "wiki_hover.png",
+          "type": "File",
+          "artifact": {
+            "size": 3951,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/wiki_hover.png",
+            "MD5": "f7f67f1d17f397d2e45d89da51873c97",
+            "path": "config/fancymenu/pixelmon_resources/wiki_hover.png"
+          }
+        },
+        {
+          "id": "wiki_normal.png",
+          "name": "wiki_normal.png",
+          "type": "File",
+          "artifact": {
+            "size": 3900,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/wiki_normal.png",
+            "MD5": "c31e683916c30e0e3e9b778afd53429f",
+            "path": "config/fancymenu/pixelmon_resources/wiki_normal.png"
+          }
+        },
+        {
+          "id": "naturescompass.cfg",
+          "name": "naturescompass.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1378,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/config/naturescompass.cfg",
+            "MD5": "e3446c2b59633f286f0c284de0f52f6a",
+            "path": "config/naturescompass.cfg"
+          }
+        },
+        {
+          "id": "ThePixelmonOST.zip",
+          "name": "ThePixelmonOST.zip",
+          "type": "File",
+          "artifact": {
+            "size": 118460410,
+            "url": "http://localhost:8080/servers/Test-1.12.2/files/resourcepacks/ThePixelmonOST.zip",
+            "MD5": "d4f25f729a74428f0b6581844ce89cfd",
+            "path": "resourcepacks/ThePixelmonOST.zip"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -8,19 +8,19 @@
   },
   "servers": [
     {
-      "id": "Test-1.12.2",
+      "id": "Pixelmon-1.12.2",
       "name": "Astro Pixelmon Server",
       "description": "Astro Pixelmon Server Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "25.95.132.68:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "905683421899161631",
         "largeImageText": "jasnoor",
         "largeImageKey": "pog"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -241,7 +241,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7266,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/AIImprovements-1.12-0.0.1b3.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/AIImprovements-1.12-0.0.1b3.jar",
             "MD5": "b7530d2707a004353219ac8beceec173"
           }
         },
@@ -251,7 +251,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33683,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/AppleSkin-mc1.12-1.0.14.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/AppleSkin-mc1.12-1.0.14.jar",
             "MD5": "b435860d5cfa23bc53d3b8e120be91d4"
           },
           "required": {
@@ -264,7 +264,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4062630,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
             "MD5": "b8667d60a761d5b5ae3c8a15192f9e28"
           }
         },
@@ -274,7 +274,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57279,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/AutoRegLib-1.6-49.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/AutoRegLib-1.6-49.jar",
             "MD5": "16302251afc7a757f00899b270cc0fa2"
           }
         },
@@ -284,7 +284,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 108450,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
             "MD5": "944dec4ef3fbfd4d498d94a7047af201"
           }
         },
@@ -294,7 +294,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4702147,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
             "MD5": "4c1d23b8a58b6aaa9a5204fae3f18393"
           }
         },
@@ -304,7 +304,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5002,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/BOP-Patch-1.0.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/BOP-Patch-1.0.jar",
             "MD5": "d57669b7624c011e350b2bb4c4a66949"
           }
         },
@@ -314,7 +314,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13817704,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Botania%20r1.10-364.4.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Botania%20r1.10-364.4.jar",
             "MD5": "7a19779fa19e37cb9fb49a0a1770332b"
           }
         },
@@ -324,7 +324,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 319866,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/carryon-1.12.2-1.12.6.20.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/carryon-1.12.2-1.12.6.20.jar",
             "MD5": "67f26a8f192efefffb6f5d34e7021a13"
           }
         },
@@ -334,7 +334,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 737407,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
             "MD5": "e056e23559965f2ebabf47aad0fe51a3"
           }
         },
@@ -344,7 +344,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13792,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Clumps-3.1.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Clumps-3.1.2.jar",
             "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
           }
         },
@@ -354,7 +354,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29043,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/Controlling-3.0.10.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/Controlling-3.0.10.jar",
             "MD5": "7696135b09e93265ff190e1ee97a8257"
           },
           "required": {
@@ -367,7 +367,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1571433,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/CraftTweaker2-1.12-4.1.20.669.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/CraftTweaker2-1.12-4.1.20.669.jar",
             "MD5": "ded3e577f3c5b140a112dd6ce73cd7d2"
           }
         },
@@ -377,7 +377,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91121,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
             "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
           }
         },
@@ -387,7 +387,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15929762,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
             "MD5": "1a0d50a34941865ff091a492e0612502"
           }
         },
@@ -397,7 +397,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17073,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.15.jar",
             "MD5": "ff5d71e5f96ffb1ef1f996af48da2c6c"
           }
         },
@@ -407,7 +407,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21889,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Essential-Forge-1.12.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Essential-Forge-1.12.2.jar",
             "MD5": "7b89c416ec3016f2beed630516b9e3a5"
           }
         },
@@ -417,7 +417,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 584313,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/fancymenu_2.3.5_MC_1.17.1.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/fancymenu_2.3.5_MC_1.17.1.jar",
             "MD5": "8ff53a82f2c32a6c806ad1a99c645e66"
           }
         },
@@ -427,7 +427,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10035,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/FastFurnace-1.12.2-1.3.1.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/FastFurnace-1.12.2-1.3.1.jar",
             "MD5": "b84cc8a587dbd35fef2dbc3e0b9435aa"
           }
         },
@@ -437,7 +437,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5200,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/FastLeafDecay-v14.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/FastLeafDecay-v14.jar",
             "MD5": "18096ffb7f58d94f8e5a7bf2ff160f0f"
           }
         },
@@ -447,7 +447,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26515,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/FastWorkbench-1.12.2-1.7.3.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/FastWorkbench-1.12.2-1.7.3.jar",
             "MD5": "b55a31e4193204572acf05f78e0deedc"
           }
         },
@@ -457,7 +457,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 475994,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/FluxNetworks-1.12.2-4.1.1.34.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/FluxNetworks-1.12.2-4.1.1.34.jar",
             "MD5": "dc5f666ad856dd1da2b195f03a815bb3"
           }
         },
@@ -467,7 +467,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6278399,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Forgelin-1.8.4.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Forgelin-1.8.4.jar",
             "MD5": "2da79fce72265eab0541e565636d389d"
           }
         },
@@ -477,7 +477,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9039,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionaloff/FreeLook-1.2.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionaloff/FreeLook-1.2.2.jar",
             "MD5": "e452d54a6dd03c45444c68f93236dd59"
           },
           "required": {
@@ -491,7 +491,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2435626,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/furniture-6.3.1-1.12.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/furniture-6.3.1-1.12.2.jar",
             "MD5": "7e4f4d160032658e095eff8221977800"
           }
         },
@@ -501,7 +501,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 81327,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Gameshark-1.12.2-6.0.6-universal.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Gameshark-1.12.2-6.0.6-universal.jar",
             "MD5": "df23b3ee3bca25680a39265b57e2aa62"
           }
         },
@@ -511,7 +511,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3688703,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/geckolib-forge-1.12.2-3.0.5.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/geckolib-forge-1.12.2-3.0.5.jar",
             "MD5": "7537720d59b7f058d4717a63f409d128"
           }
         },
@@ -521,7 +521,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6360959,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/ImmersiveEngineering-0.12-98.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/ImmersiveEngineering-0.12-98.jar",
             "MD5": "affce9a7f7cb9ab257135da89314e07e"
           }
         },
@@ -531,7 +531,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1603134,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/industrialforegoing-1.12.2-1.12.13-237.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/industrialforegoing-1.12.2-1.12.13-237.jar",
             "MD5": "a9330399f14295d90e4ec3b5bb93f81f"
           }
         },
@@ -541,7 +541,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 956692,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
             "MD5": "743179bc3a8f50751efbb019acc759a9"
           }
         },
@@ -551,7 +551,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 78935,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/ItemFilters-1.0.4.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/ItemFilters-1.0.4.2.jar",
             "MD5": "c89d595cdef3cc93f2acbc31333e418b"
           }
         },
@@ -561,7 +561,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 653211,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.301.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.301.jar",
             "MD5": "1dee4be93d666e2228039c551e927b35"
           },
           "required": {
@@ -574,7 +574,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25196,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/jeiintegration_1.12.2-1.6.0.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/jeiintegration_1.12.2-1.6.0.jar",
             "MD5": "591f2eef8dc65ebc6850bce0acd88f41"
           },
           "required": {
@@ -587,7 +587,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6990968,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1.jar",
             "MD5": "8160b970fc14cff30dff2785bb9f964c"
           }
         },
@@ -597,7 +597,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 222270,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/JustEnoughResources-1.12.2-0.9.2.60.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/JustEnoughResources-1.12.2-0.9.2.60.jar",
             "MD5": "87a4666549a60d8fb423883dd4ee6232"
           },
           "required": {
@@ -610,7 +610,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 200318,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/konkrete_1.3.0_MC_1.12-1.12.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/konkrete_1.3.0_MC_1.12-1.12.2.jar",
             "MD5": "385944d05703b3d57b066f12cde20c82"
           }
         },
@@ -620,7 +620,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27710,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/loadmyresources_1.0.1_MC_1.12-1.12.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/loadmyresources_1.0.1_MC_1.12-1.12.2.jar",
             "MD5": "82a35d317797d8bdb137cf9115be8abe"
           },
           "required": {
@@ -633,7 +633,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 843486,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar",
             "MD5": "1026f5f8d3c4997831decd9023ca65a6"
           }
         },
@@ -643,7 +643,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7863657,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
             "MD5": "e622b8365b9a1190b3b6cc042854e870"
           }
         },
@@ -653,7 +653,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 336364,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
             "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
           }
         },
@@ -663,7 +663,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 159785,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
             "MD5": "0095f13a729ce5873319e36e29a5b5e1"
           }
         },
@@ -673,7 +673,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 75170,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/MouseTweaks-2.10-mc1.12.2.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/MouseTweaks-2.10-mc1.12.2.jar",
             "MD5": "e4dcbf47c3f99a780681e3a3a9fcf9e9"
           },
           "required": {
@@ -686,7 +686,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 193908,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/NaturesCompass-1.12.2-1.8.0.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/NaturesCompass-1.12.2-1.8.0.jar",
             "MD5": "0cbdc050191cf1b6ef820babc286417b"
           }
         },
@@ -696,7 +696,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18527,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/optionalon/Neat%201.4-17.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/optionalon/Neat%201.4-17.jar",
             "MD5": "c371deab2490ecd6a2689eed09302d23"
           },
           "required": {
@@ -709,7 +709,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 341728,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/OreLib-1.12.2-3.6.0.1.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/OreLib-1.12.2-3.6.0.1.jar",
             "MD5": "00cce3b240365458adcad3e77782358a"
           }
         },
@@ -719,7 +719,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 165753,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/PixelExtras-1.12.2-2.5.15-universal.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/PixelExtras-1.12.2-2.5.15-universal.jar",
             "MD5": "f620c03b06177bfd0a122ecb48c92a88"
           }
         },
@@ -729,7 +729,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 384409238,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Pixelmon-1.12.2-8.3.1-universal.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Pixelmon-1.12.2-8.3.1-universal.jar",
             "MD5": "00bc3b60a50bad4407c759897f378d59"
           }
         },
@@ -739,7 +739,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 142196,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Placebo-1.17.1-5.0.0.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Placebo-1.17.1-5.0.0.jar",
             "MD5": "030026867e8e7f7498a388190d386496"
           }
         },
@@ -749,7 +749,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3877577,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/Quark-r1.6-179.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/Quark-r1.6-179.jar",
             "MD5": "dfcfa70d244f0435a5ff2b28037a324b"
           }
         },
@@ -759,7 +759,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 293231,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/randompatches-1.12.2-1.22.1.10.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/randompatches-1.12.2-1.22.1.10.jar",
             "MD5": "dfbb30ff396e6426ba9a284b04c7bcf3"
           }
         },
@@ -769,7 +769,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24024,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/stg-1.12.2-1.2.3.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/stg-1.12.2-1.2.3.jar",
             "MD5": "b836648006f1451c65d33f7132eec770"
           }
         },
@@ -779,7 +779,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4023372,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.183.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.183.jar",
             "MD5": "710d64342d41042b7d6ced891448e727"
           }
         },
@@ -789,7 +789,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1139012,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/tesla-core-lib-1.12.2-1.0.18.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/tesla-core-lib-1.12.2-1.0.18.jar",
             "MD5": "376a23e3487870028a26d0e9522d8da7"
           }
         },
@@ -799,7 +799,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 168301,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.4.84.jar",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.4.84.jar",
             "MD5": "e747c087c45e362f9cf497d008a367eb"
           }
         },
@@ -809,7 +809,7 @@
           "type": "File",
           "artifact": {
             "size": 1448,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/config.txt",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/config.txt",
             "MD5": "9c7e482868522ed4a894c319e24440c8",
             "path": "config/fancymenu/config.txt"
           }
@@ -820,7 +820,7 @@
           "type": "File",
           "artifact": {
             "size": 605,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_back.txt",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_back.txt",
             "MD5": "02aed98cf3523769ab9c78b51d22f388",
             "path": "config/fancymenu/customization/pixelmon_back.txt"
           }
@@ -831,7 +831,7 @@
           "type": "File",
           "artifact": {
             "size": 5896,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_front.txt",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_front.txt",
             "MD5": "40356df8b92bb3c6f567effd78d1656b",
             "path": "config/fancymenu/customization/pixelmon_front.txt"
           }
@@ -842,7 +842,7 @@
           "type": "File",
           "artifact": {
             "size": 194,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_scale_large.txt",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_scale_large.txt",
             "MD5": "dc72e46082b6a032fff52b9c0a011b4c",
             "path": "config/fancymenu/customization/pixelmon_scale_large.txt"
           }
@@ -853,7 +853,7 @@
           "type": "File",
           "artifact": {
             "size": 193,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_scale_small.txt",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/customization/pixelmon_scale_small.txt",
             "MD5": "4de30b6ba74348df575f449dd20a0736",
             "path": "config/fancymenu/customization/pixelmon_scale_small.txt"
           }
@@ -864,7 +864,7 @@
           "type": "File",
           "artifact": {
             "size": 102,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/excludedmenus.txt",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/excludedmenus.txt",
             "MD5": "a3351750ef79f76f39682a79949e0686",
             "path": "config/fancymenu/excludedmenus.txt"
           }
@@ -875,7 +875,7 @@
           "type": "File",
           "artifact": {
             "size": 20011,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/locals/de_de.local",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/locals/de_de.local",
             "MD5": "f7672ca255f81aa57e8641fd42b0f694",
             "path": "config/fancymenu/locals/de_de.local"
           }
@@ -886,7 +886,7 @@
           "type": "File",
           "artifact": {
             "size": 19034,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/locals/en_us.local",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/locals/en_us.local",
             "MD5": "2bcaa39db6f9c6bc2aae2b46809e1965",
             "path": "config/fancymenu/locals/en_us.local"
           }
@@ -897,7 +897,7 @@
           "type": "File",
           "artifact": {
             "size": 14275,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/locals/pl_pl.local",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/locals/pl_pl.local",
             "MD5": "956b052e15281169f90e9e5bd9b9c3af",
             "path": "config/fancymenu/locals/pl_pl.local"
           }
@@ -908,7 +908,7 @@
           "type": "File",
           "artifact": {
             "size": 14690,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/locals/pt_br.local",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/locals/pt_br.local",
             "MD5": "2e4feed8d5692ef3f657f69453528535",
             "path": "config/fancymenu/locals/pt_br.local"
           }
@@ -919,7 +919,7 @@
           "type": "File",
           "artifact": {
             "size": 696,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon16x16.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon16x16.png",
             "MD5": "10234a912cae1334cfceb40f7eb77b41",
             "path": "config/fancymenu/minecraftwindow/icons/icon16x16.png"
           }
@@ -930,7 +930,7 @@
           "type": "File",
           "artifact": {
             "size": 1660,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon32x32.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/minecraftwindow/icons/icon32x32.png",
             "MD5": "39d09de9200a5b5d1ba90cb7ad17e699",
             "path": "config/fancymenu/minecraftwindow/icons/icon32x32.png"
           }
@@ -941,7 +941,7 @@
           "type": "File",
           "artifact": {
             "size": 1577,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/clear_back.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/clear_back.png",
             "MD5": "9f6042adfa4ed5f2e7f0850b033fa73f",
             "path": "config/fancymenu/pixelmon_resources/clear_back.png"
           }
@@ -952,7 +952,7 @@
           "type": "File",
           "artifact": {
             "size": 5837,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/discord_hover.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/discord_hover.png",
             "MD5": "ffaa266e7f4a49e547981168dae64bec",
             "path": "config/fancymenu/pixelmon_resources/discord_hover.png"
           }
@@ -963,7 +963,7 @@
           "type": "File",
           "artifact": {
             "size": 5448,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/discord_normal.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/discord_normal.png",
             "MD5": "46a8651202143aee08b04782cbd3ecbb",
             "path": "config/fancymenu/pixelmon_resources/discord_normal.png"
           }
@@ -974,7 +974,7 @@
           "type": "File",
           "artifact": {
             "size": 1750,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/icon-bar.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/icon-bar.png",
             "MD5": "d5507fada52177b1a50dbbf5ff7fde3a",
             "path": "config/fancymenu/pixelmon_resources/icon-bar.png"
           }
@@ -985,7 +985,7 @@
           "type": "File",
           "artifact": {
             "size": 2770,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/logs_hover.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/logs_hover.png",
             "MD5": "dfa9c5539e703819c689fcdbcbf620f4",
             "path": "config/fancymenu/pixelmon_resources/logs_hover.png"
           }
@@ -996,7 +996,7 @@
           "type": "File",
           "artifact": {
             "size": 2734,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/logs_normal.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/logs_normal.png",
             "MD5": "c15ddc3815eef12819693ae820912633",
             "path": "config/fancymenu/pixelmon_resources/logs_normal.png"
           }
@@ -1007,7 +1007,7 @@
           "type": "File",
           "artifact": {
             "size": 6982,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/node_hover.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/node_hover.png",
             "MD5": "c9235220096aa8a1fb4c7d598480ecbc",
             "path": "config/fancymenu/pixelmon_resources/node_hover.png"
           }
@@ -1018,7 +1018,7 @@
           "type": "File",
           "artifact": {
             "size": 9550,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/node_normal.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/node_normal.png",
             "MD5": "f2f0c143090b7323b3c75ce2b283126e",
             "path": "config/fancymenu/pixelmon_resources/node_normal.png"
           }
@@ -1029,7 +1029,7 @@
           "type": "File",
           "artifact": {
             "size": 7312184,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/reforged-bg.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/reforged-bg.png",
             "MD5": "6753e2f15858aef932dcb33ef09d1f7b",
             "path": "config/fancymenu/pixelmon_resources/reforged-bg.png"
           }
@@ -1040,7 +1040,7 @@
           "type": "File",
           "artifact": {
             "size": 396752,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/reforged-logo.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/reforged-logo.png",
             "MD5": "7c1baedafa69b7f878fb3f2a6c327296",
             "path": "config/fancymenu/pixelmon_resources/reforged-logo.png"
           }
@@ -1051,7 +1051,7 @@
           "type": "File",
           "artifact": {
             "size": 13592,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/sidebar-slice_full.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/sidebar-slice_full.png",
             "MD5": "c3f717bbc0ddc22d7c5024a399e11232",
             "path": "config/fancymenu/pixelmon_resources/sidebar-slice_full.png"
           }
@@ -1062,7 +1062,7 @@
           "type": "File",
           "artifact": {
             "size": 32433,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/topbar-slice.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/topbar-slice.png",
             "MD5": "e5cc367ae7d7c5bcb79bae95c3485ed1",
             "path": "config/fancymenu/pixelmon_resources/topbar-slice.png"
           }
@@ -1073,7 +1073,7 @@
           "type": "File",
           "artifact": {
             "size": 2978,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/website_hover.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/website_hover.png",
             "MD5": "9e056bf3919cccf7a5ba33bd30afc074",
             "path": "config/fancymenu/pixelmon_resources/website_hover.png"
           }
@@ -1084,7 +1084,7 @@
           "type": "File",
           "artifact": {
             "size": 2955,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/website_normal.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/website_normal.png",
             "MD5": "669fe56afc403b75db3047042e39ead4",
             "path": "config/fancymenu/pixelmon_resources/website_normal.png"
           }
@@ -1095,7 +1095,7 @@
           "type": "File",
           "artifact": {
             "size": 3951,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/wiki_hover.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/wiki_hover.png",
             "MD5": "f7f67f1d17f397d2e45d89da51873c97",
             "path": "config/fancymenu/pixelmon_resources/wiki_hover.png"
           }
@@ -1106,7 +1106,7 @@
           "type": "File",
           "artifact": {
             "size": 3900,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/wiki_normal.png",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/fancymenu/pixelmon_resources/wiki_normal.png",
             "MD5": "c31e683916c30e0e3e9b778afd53429f",
             "path": "config/fancymenu/pixelmon_resources/wiki_normal.png"
           }
@@ -1117,7 +1117,7 @@
           "type": "File",
           "artifact": {
             "size": 1378,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/config/naturescompass.cfg",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/config/naturescompass.cfg",
             "MD5": "e3446c2b59633f286f0c284de0f52f6a",
             "path": "config/naturescompass.cfg"
           }
@@ -1128,7 +1128,7 @@
           "type": "File",
           "artifact": {
             "size": 118460410,
-            "url": "http://aslaunch.astrogamer54.com//servers/Test-1.12.2/files/resourcepacks/ThePixelmonOST.zip",
+            "url": "http://aslaunch.astrogamer54.com/servers/Test-1.12.2/files/resourcepacks/ThePixelmonOST.zip",
             "MD5": "d4f25f729a74428f0b6581844ce89cfd",
             "path": "resourcepacks/ThePixelmonOST.zip"
           }

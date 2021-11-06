@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 plugins:
     - jekyll-feed
-title: Astro Feed
-description: The news feed for my launcher
+title: News
+descripton: News feed for Astro Launcher
 author: Astrogamer54
